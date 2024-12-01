@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoAlerta</string>
+    <string name="title_activity_launch_screen">launchScreen</string>
+    <string name="title_activity_login_screen">loginScreen</string>
+</resources>
